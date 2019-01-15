@@ -5,3 +5,5 @@
 .navbar-collapse{ justify-content: flex-end;}
 .navbar-toggler{  background:#fff !important;}
 
+.bg-dark{ background-color:#303a44!important; }
+.bg-primary{ background-color:#007bff!important; }
