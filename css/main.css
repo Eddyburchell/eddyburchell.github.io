@@ -7,3 +7,11 @@
 
 .bg-dark{ background-color:#303a44!important; }
 .bg-primary{ background-color:#007bff!important; }
+
+/*header style*/
+.header{
+    background-image: url('../resources/images/gigined.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
